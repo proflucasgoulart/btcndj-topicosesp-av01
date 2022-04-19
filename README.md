@@ -1,2 +1,1 @@
-# btcndj-topicosesp-av01
-Primeira atividade avaliativa
+# Primeira atividade avaliativa
