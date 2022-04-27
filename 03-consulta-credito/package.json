@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose",
+    "start": "node src/server.js",
+    "test": "jest",
     "lint": "eslint src/** test/** --fix",
-    "watch": "jest --watch"
+    "watch": "jest --watch --verbose=true"
   },
   "author": "",
   "license": "ISC",
